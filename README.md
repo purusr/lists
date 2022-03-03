@@ -24,3 +24,5 @@ Some Screenshots of the app
 
 ![Alt text](../master/readmeimg/postaddpage.png "Post Add Page")
 
+
+## New fixes
